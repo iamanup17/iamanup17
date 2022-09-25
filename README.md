@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @iamanup17.
-- 👀 I’m interested in front end web development.
-- 🌱 I’m currently learning React Js. 
-- 💞️ I’m looking for full time job in front-end Web Development. 
+- 👋 Hi, I am Anup
+- 👀 I am Frontend React JS Developer
+- 💞️ I am open to work as a React JS Developer.
 - 📫 you can reach out to me at anupmanwatkar17@gmail.com.
 
 <!---
